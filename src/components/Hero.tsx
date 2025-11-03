@@ -20,6 +20,10 @@ export function Hero() {
     "/images/imagebanniere.jpg",
     "/images/banniere1.jpg",
     "/images/banniere2.jpg",
+     "/images/banniere3.jfif",
+    "/images/banniere4.JFIF",
+    "/images/banniere5.png"
+
   ];
   const [currentImage, setCurrentImage] = useState(images[0]);
 
